@@ -33,7 +33,4 @@ public class MyRestController {
 		System.out.println("SKSK: notUsed");
 	}
 
-
-	}
-
 }
